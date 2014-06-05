@@ -1,9 +1,0 @@
-  <dependencies>
-  
-    <dependency>
-      <groupId>asia.stampy</groupId>
-      <artifactId>stampy-core</artifactId>
-      <version>$version</version>
-    </dependency>
-
-  </dependencies>
