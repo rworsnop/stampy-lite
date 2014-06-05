@@ -3,3 +3,5 @@
 stampy.*
 /build
 /pom.xml
+.idea/
+*.iml
