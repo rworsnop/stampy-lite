@@ -18,7 +18,7 @@
  */
 package asia.stampy.client.message.stomp;
 
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 
 import asia.stampy.client.message.connect.ConnectHeader;
 import asia.stampy.common.StampyLibrary;

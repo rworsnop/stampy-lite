@@ -18,7 +18,7 @@
  */
 package asia.stampy.client.message.begin;
 
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 
 import asia.stampy.common.StampyLibrary;
 import asia.stampy.common.message.AbstractMessage;
